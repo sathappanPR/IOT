@@ -11,3 +11,7 @@
 ### Description :
   => Its is the basic IOT project Automatic car parking system. Used 4 IR sensors 2 for Servo motor gate opening and close and another 2 for slots. 
 The OLed display the no of free slots and filled slots in the parking area. If all slots are filled the gate will not open 
+
+
+
+
