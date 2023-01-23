@@ -81,3 +81,4 @@ Werkzeug==2.2.2
 wrapt==1.14.1
 yarg==0.1.9
 zipp==3.11.0
+gunicorn==19.0.0
